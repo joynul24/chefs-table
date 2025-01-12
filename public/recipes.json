@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "img": "https://joynul2024.sirv.com/chefs-table-project/recipes-1.png",
+    "name": "Spaghetti Bolognese",
+    "title": "Classic Italian pasta dish",
+    "ingredients": [
+      "200g spaghetti",
+      "150g ground beef",
+      "1 cup marinara sauce"
+    ],
+    "time": 30,
+    "calories": 450
+  },
+  {
+    "id": 2,
+    "img": "https://joynul2024.sirv.com/chefs-table-project/recipes-2.png",
+    "name": "Chicken Caesar Salad",
+    "title": "Fresh salad with a creamy dressing",
+    "ingredients": [
+      "200g grilled chicken",
+      "1 romaine lettuce head",
+      "50g parmesan cheese"
+    ],
+    "time": 20,
+    "calories": 350
+  },
+  {
+    "id": 3,
+    "img": "https://joynul2024.sirv.com/chefs-table-project/recipes-3.jpg",
+    "name": "Vegetable Stir-Fry",
+    "title": "Quick and healthy meal",
+    "ingredients": [
+      "1 cup broccoli florets",
+      "1 red bell pepper, sliced",
+      "2 tablespoons soy sauce"
+    ],
+    "time": 15,
+    "calories": 200
+  },
+  {
+    "id": 4,
+    "img": "https://joynul2024.sirv.com/chefs-table-project/recipes-4.jpg",
+    "name": "Chocolate Chip Cookies",
+    "title": "Classic dessert for everyone",
+    "ingredients": ["1 cup flour", "1/2 cup butter", "1 cup chocolate chips"],
+    "time": 25,
+    "calories": 150
+  },
+  {
+    "id": 5,
+    "img": "https://joynul2024.sirv.com/chefs-table-project/recipes-5.jpg",
+    "name": "Grilled Salmon",
+    "title": "Healthy protein-packed dish",
+    "ingredients": ["200g salmon fillet", "1 lemon", "2 teaspoons olive oil"],
+    "time": 20,
+    "calories": 350
+  },
+  {
+    "id": 6,
+    "img": "https://joynul2024.sirv.com/chefs-table-project/recipes-6.jpg",
+    "name": "Banana Smoothie",
+    "title": "Refreshing and nutritious drink",
+    "ingredients": ["2 ripe bananas", "1 cup milk", "1 tablespoon honey"],
+    "time": 5,
+    "calories": 180
+  }
+]

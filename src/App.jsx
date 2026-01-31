@@ -51,7 +51,7 @@ function App() {
 
 
   return (
-    <>
+    <div className='px-0 md:px-3'>
 
       <Nav></Nav>
       <Banner></Banner>
@@ -72,7 +72,7 @@ function App() {
       ></Sidber>
       </div>
      
-    </>
+    </div>
   )
 }
 

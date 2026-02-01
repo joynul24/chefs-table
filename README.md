@@ -7,7 +7,7 @@ The project follows a given Figma design and implements dynamic features like re
 ---
 
 ## 🔗 Live Demo 
-[Visit the Live Site](https://elegant-pie-joy.netlify.app/)
+[Visit the Live Site](https://elegant-chefs-table.netlify.app/)
 
 ## 🎯 Main Requirements
 
